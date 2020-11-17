@@ -1,7 +1,7 @@
 ### The IMDB dataset:
-We’ll work with the IMDB dataset: a set of 50,000 highly polarized reviews from the
+We’ll work with the IMDB dataset: a set of `50,000` highly polarized reviews from the
 Internet Movie Database. They’re split into 25,000 reviews for training and 25,000
-reviews for testing, each set consisting of 50% negative and 50% positive reviews.
+reviews for testing, each set consisting of *50%* *negative* and *50%* positive reviews.
 Why use separate training and test sets? Because you should never test a machinelearning
 model on the same data that you used to train it! Just because a model performs
 well on its training data doesn’t mean it will perform well on data it has never
